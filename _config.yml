@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+site_name: Bjorn Melin
+nav:
+- Home: index.md
+
+- Code:
+    - Projects: codingProjects.md
+    - Research: research.md
+- Hobbies: hobbies.md
