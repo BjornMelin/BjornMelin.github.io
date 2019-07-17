@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman  
 site_name: Bjorn Melin
 nav:
 - Home: index.md
