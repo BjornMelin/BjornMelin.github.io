@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman  
-site_name: Bjorn Melin
+title: Bjorn Melin
 nav:
 - Home: index.md
 
